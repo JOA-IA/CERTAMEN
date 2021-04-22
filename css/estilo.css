@@ -1,0 +1,53 @@
+body{
+  background:teal;
+  font-family: verdana;
+  text-align: center;
+}
+
+H1,H4{
+  background: white;
+  text-decoration: underline;
+  display: inline-table;
+}
+
+P{
+  color:black;
+  font-family: verdana;
+  text-align: justify;
+}
+div {
+  background-color: white;
+  margin: 50px;
+}
+TABLE,td{
+  margin: auto;
+  width: 50%;
+  border: 1px solid yellow;
+  font: verdana;
+  color: white;
+}
+td{
+  padding: 20px;
+
+
+}
+a:link{
+  color:red;
+}
+a:hover{
+  color:yellow;
+  text-decoration: none;
+}
+a:visited{
+  color:lime;
+}
+a:active{
+  color:blue;
+}
+hr{
+  width: 50%;
+  border: 1px solid yellow;
+}
+ol{
+  text-align: left;
+}
